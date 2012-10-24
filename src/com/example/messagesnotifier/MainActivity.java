@@ -27,7 +27,7 @@ public class MainActivity extends Activity {
 			} catch (Exception e) {
 				System.out.println(e.getMessage());
 			}
-			Notification notify = new Notification(R.drawable.ic_launcher,
+			Notification notify = new Notification(R.drawable.icon,
 					"New message from Afeka", System.currentTimeMillis());
 			Context context = MainActivity.this;
 			CharSequence title = "You have a new message from Afeka";

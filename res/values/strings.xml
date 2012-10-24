@@ -1,9 +1,8 @@
 <resources>
 
-    <string name="app_name">MessagesNotifier</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Afeka Mail</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">Afeka Mail</string>
     <string name="title_activity_message_viewer">MessageViewer</string>
     <string name="menu_exit">Exit</string>
 
